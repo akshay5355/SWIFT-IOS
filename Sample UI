@@ -39,7 +39,6 @@ struct contentView:View{
                     print("How are u")
 
                     
-
                 }
 
             }
