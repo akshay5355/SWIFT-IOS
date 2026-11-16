@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct contentView:View{
+struct ContentView:View{
 
     var body:some View{
 
@@ -47,7 +47,7 @@ struct contentView:View{
 
 #Preview {
 
-    contentView()
+    ContentView()
 
 }
 
